@@ -1,0 +1,43 @@
+{
+  "development": {
+    "username": "root",
+    "password": null,
+    "database": "angularnodejsapi",
+    "host": "localhost",
+    "dialect": "mysql",
+    "operatorsAlies":0,
+    "dialectOptions": {
+      "useUTC": false, 
+      "dateStrings": true,
+      "typeCast": true
+    }
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "angularnodejsapi",
+    "host": "localhost",
+    "dialect": "mysql",
+    "operatorsAlies":false,
+    "dialectOptions": {
+      "useUTC": false, 
+      "dateStrings": true,
+      "typeCast": true
+    }
+
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "angularnodejsapi",
+    "host": "localhost",
+    "dialect": "mysql",
+    "operatorsAlies":false,
+    "dialectOptions": {
+      "useUTC": false, 
+      "dateStrings": true,
+      "typeCast": true
+    }
+
+  }
+}
